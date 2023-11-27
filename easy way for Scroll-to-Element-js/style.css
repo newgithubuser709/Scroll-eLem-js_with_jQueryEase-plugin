@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sec1 {
+    background-color: greenyellow;
+}
+
+#sec2 {
+    background-color: pink;
+}
+
+a {
+    color: white;
+    background-color: rgb(13, 13, 13);
+    display: inline-block;
+    padding: 10px 30px;
+    text-decoration: none;
+}
